@@ -1,6 +1,5 @@
 ﻿using BepInEx;
 using BepInEx.Logging;
-using LegendaryEnhancedWeaponDrops.Helpers;
 using LegendaryEnhancedWeaponDrops.Patches;
 
 namespace LegendaryEnhancedWeaponDrops
