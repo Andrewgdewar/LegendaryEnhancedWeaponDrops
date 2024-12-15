@@ -5,7 +5,7 @@ using JsonType;
 using SPT.Reflection.Patching;
 using UnityEngine;
 
-namespace LegendaryEnhancedWeaponDrops.Patches
+namespace LEWD.Patches
 {
     public class ColorPatch : ModulePatch
     {

@@ -1,9 +1,9 @@
 ﻿using BepInEx;
-using LegendaryEnhancedWeaponDrops.Patches;
+using LEWD.Patches;
 
-namespace LegendaryEnhancedWeaponDrops
+namespace LEWD
 {
-    [BepInPlugin("LegendaryEnhancedWeaponDrops.settings", "LegendaryEnhancedWeaponDrops", "1.0.0")]
+    [BepInPlugin("LEWD.settings", "LEWD", "1.0.0")]
     public class Plugin : BaseUnityPlugin
     {
         private void Awake()

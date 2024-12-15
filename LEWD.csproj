@@ -3,8 +3,8 @@
   <PropertyGroup>
     <TargetFramework>net472</TargetFramework>
     <LangVersion>Latest</LangVersion>
-    <RootNamespace>LegendaryEnhancedWeaponDrops</RootNamespace>
-    <AssemblyName>LegendaryEnhancedWeaponDrops</AssemblyName>
+    <RootNamespace>LEWD</RootNamespace>
+    <AssemblyName>LEWD</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
   </PropertyGroup>
